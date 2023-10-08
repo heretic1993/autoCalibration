@@ -17,4 +17,4 @@ Software:
 - OpenCV with Aruco module
 - Python3
 
-For more detail, please refer to: https://www.three.ml/2018/08/hand-eye-calibration/
+No longer maintained
